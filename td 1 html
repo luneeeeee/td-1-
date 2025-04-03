@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services</title>
+    <meta name="description" content="Découvrez nos services de jardinage et d'aménagement paysager.">
+    <link rel="stylesheet" href="css.css">
+</head>
+    <header>
+        <div class="logo">
+        <p>Lucas Jardin et Paysages</p>
+        </div>
+        <nav>
+            <ul>
+              <li><a href="Accueil.html">Accueil</a></li>
+              <li class="dropdown">
+                <a href="services/creation-et-entretien.html">Nos Services</a>
+                <ul class="dropdown-menu">
+                  <li><a href="services/entretien.html">Entretien de jardin</a></li>
+                  <li><a href="services/conception.html">Conception paysagère</a></li>
+                  <li><a href="services/elagage.html">Élagage et soins des arbres</a></li>
+                  <li><a href="Arboriculture.html">Arboriculture</a></li>
+                  <li><a href="Arrosage automatique.html">Arrosage automatique</a></li>
+                  <li><a href="Jardinage ornemental.html">Jardinage ornemental</a></li>
+                  <li><a href="Permaculture.html">Permaculture</a></li>
+                  <li><a href="services/Viticulture.html">Viticulture</a></li>
+                  <li><a href="Jardin Zen.html">Jardin zen</a></li>
+                  <li><a href="Jardinage pédagogique.html">Jardinage pédagogique</a></li>
+                </ul>
+              </li>
+              <li><a href="#faq">FAQ</a></li>
+              <li><a href="#realisations">Réalisation</a></li>
+            </ul>
+          </nav>
+    </header>
+<body>
+    <h1>Services</h1>
+    <img src="images/vin.jpg" alt="Image illustrant les services">
+    <h2>Viticulture</h2>
+    <p>Je vous propose d'aménager votre jardin de A à Z :
+        <br>-Création d’allées paysagères entre les rangs de vignes
+        <br>-Plantation d’arbres et de haies pour brise-vent et biodiversité 
+        <br>-Conception d’espaces verts autour de la cave et du domaine
+        <br>-Mise en place de couvert végétal entre les rangs
+    </p>
+    <h2>Tarifs:</h2>
+    <p>Les tarifs varient en fonction de la taille du chantier et dépendent du projet que vous voulez réaliser.
+        <br> <a href="$$$" >Contactez moi</a> par mail ou par téléphone pour un devis gratuit
+    </p>
+</body>
+</html>
+ 
+
+
